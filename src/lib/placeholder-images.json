@@ -1,0 +1,94 @@
+{
+  "placeholderImages": [
+    {
+      "id": "deal-pizza",
+      "description": "A delicious looking pizza.",
+      "imageUrl": "https://images.unsplash.com/photo-1564128442383-9201fcc740eb?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8cGl6emElMjBwZXBwZXJvbml8ZW58MHx8fHwxNzYxMzIwNDcyfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "pizza pepperoni"
+    },
+    {
+      "id": "deal-idli",
+      "description": "South Indian breakfast idli",
+      "imageUrl": "https://images.unsplash.com/photo-1668665632832-4720c707d84b?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxJbmRpYW4lMjBmb29kJTIwaWRsaXxlbnwwfHx8fDE3MjE4MzE1NTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "indian food"
+    },
+    {
+      "id": "deal-samosa",
+      "description": "Crispy samosas",
+      "imageUrl": "https://images.unsplash.com/photo-1601725389408-160a0a597b83?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzYW1vc2F8ZW58MHx8fHwxNzIxODMxNjMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "indian food"
+    },
+    {
+      "id": "deal-juice",
+      "description": "Fresh fruit juice",
+      "imageUrl": "https://images.unsplash.com/photo-1600271886742-f049cd452bba?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxmcnVpdCUyMGp1aWNlfGVufDB8fHx8fDE3MjE4MzE4NDd8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "fruit juice"
+    },
+    {
+      "id": "deal-sweets",
+      "description": "Box of indian sweets",
+      "imageUrl": "https://images.unsplash.com/photo-1615929211931-9a59a95379a0?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxJbmRpYW4lMjBzd2VldHN8ZW58MHx8fHwxNzIxODMxNzQ4fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "indian sweets"
+    },
+    {
+      "id": "deal-sushi",
+      "description": "A tray of assorted sushi rolls.",
+      "imageUrl": "https://images.unsplash.com/photo-1502364271109-0a9a75a2a9df?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxzdXNoaSUyMGphcGFufGVufDB8fHx8fDE3NjEzNjI3NzN8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "sushi japan"
+    },
+    {
+      "id": "deal-bakery",
+      "description": "An assortment of fresh pastries.",
+      "imageUrl": "https://images.unsplash.com/photo-1634749845394-0ae1e4c6522e?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxiYWtlcnklMjBwYXN0cnl8ZW58MHx8fHwxNzYxNDAyMjg5fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "bakery pastry"
+    },
+    {
+      "id": "deal-burger",
+      "description": "A juicy burger with fries.",
+      "imageUrl": "https://images.unsplash.com/photo-1654791395364-b66be3a2bc99?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHxidXJnZXIlMjBmcmllc3xlbnwwfHx8fDE3NjEzNTkxMTB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "burger fries"
+    },
+    {
+      "id": "deal-salad",
+      "description": "A fresh and healthy salad bowl.",
+      "imageUrl": "https://images.unsplash.com/photo-1578657084274-03b9d153b0dc?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxzYWxhZCUyMGhlYWx0aHl8ZW58MHx8fHwxNzYxMzIwMTc2fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "salad healthy"
+    },
+    {
+      "id": "deal-coffee",
+      "description": "A cup of latte with art.",
+      "imageUrl": "https://images.unsplash.com/photo-1461023058943-07fcbe16d735?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxMHx8Y29mZmVlJTIwbGF0dGV8ZW58MHx8fHwxNzYxMzc4NzI3fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "coffee latte"
+    },
+    {
+      "id": "user-1",
+      "description": "Profile picture for a user.",
+      "imageUrl": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxwZXJzb24lMjBwb3J0cmFpdHxlbnwwfHx8fDE3NjEzMjQyNDB8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person portrait"
+    },
+    {
+      "id": "user-2",
+      "description": "Profile picture for another user.",
+      "imageUrl": "https://images.unsplash.com/photo-1525134479668-1bee5c7c6845?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw1fHx3b21hbiUyMHNtaWxpbmd8ZW58MHx8fHwxNzYxMzQ1MjEwfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "woman smiling"
+    },
+    {
+      "id": "user-3",
+      "description": "Profile picture for a third user.",
+      "imageUrl": "https://images.unsplash.com/photo-1557862921-37829c790f19?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw2fHxtYW4lMjBnbGFzc2VzfGVufDB8fHx8fDE3MjE4MzE5ODZ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "man glasses"
+    },
+    {
+      "id": "user-4",
+      "description": "Profile picture for a fourth user.",
+      "imageUrl": "https://images.unsplash.com/photo-1484863137850-59afcfe05386?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxwZXJzb24lMjBoYXBweXxlbnwwfHx8fDE3NjEzMDE4MzV8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "person happy"
+    },
+    {
+      "id": "qr-code",
+      "description": "A placeholder QR code.",
+      "imageUrl": "https://images.unsplash.com/photo-1595079676339-1534801ad6cf?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxxciUyMGNvZGV8ZW58MHx8fHwxNzYxMzk3MjM1fDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "qr code"
+    }
+  ]
+}
